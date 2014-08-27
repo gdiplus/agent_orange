@@ -29,7 +29,7 @@ module AgentOrange
 
     DEVICES = {
       :computer => 'windows|macintosh|x11|linux',
-      :mobile => 'ipod|ipad|iphone|palm|android|opera mini|hiptop|windows ce|smartphone|mobile|treo|psp'
+      :mobile => 'ipod|iphone|palm|android|opera mini|hiptop|windows ce|smartphone|mobile|treo|psp'
     }
 
     BOTS = {
